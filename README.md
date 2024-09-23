@@ -1,5 +1,9 @@
 # Dragon Ball Z 
 
+## Visuales
+![dragon ball](https://github.com/user-attachments/assets/33351dfb-3dbb-4a82-8dbb-3ca02ed17c60)
+
+
 ## Características
 
 - Visualiza una lista de personajes de **Dragon Ball Z**.
