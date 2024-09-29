@@ -32,3 +32,6 @@ Para ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
     ```sh
     npm i
     ```
+---
+
+⌨️ con ❤️ por [Macarena Quijada G](https://github.com/MacarenaQuijadaG) 😊
